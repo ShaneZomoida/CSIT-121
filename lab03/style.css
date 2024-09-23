@@ -1,0 +1,85 @@
+body {
+    background-color: rgb(14, 1, 1);
+  }
+  
+  h1{color: rgb(0, 0, 0);
+    text-align: center;
+    font-family: verdana;
+    font-size: 40px;
+    border: 10px;
+    background-color: rgb(253, 241, 208);
+    border-style:groove;
+    border-color:rgba(189, 189, 189, 0.336);
+}
+
+  h2 {
+    color: white;
+    text-align: center;
+    font-family: verdana;
+    font-size: 24px;
+    border-bottom-color:rgb(184, 121, 3);
+    border-bottom-style:groove;
+    
+  }
+
+  
+  h3 {
+     color: white;
+     text-align: center;
+     font-family: verdana;
+     font-size: 24px;
+     border-bottom-color:rgb(17, 31, 153);
+     border-bottom-style:groove;
+  }
+
+
+
+  p  {border: 10px;
+    background-color: rgb(255, 255, 255);
+    border-style:groove;
+    border-color:rgba(189, 189, 189, 0.336);
+
+  }
+
+  main {border: 10px;
+    background-color: rgb(255, 255, 255);
+    border-style:groove;
+    border-color:rgba(189, 189, 189, 0.336);
+    
+  }
+ #learned {border: 10px;
+    background-color: rgb(25, 25, 27);
+    border-style:groove;
+    border-color:rgba(189, 189, 189, 0.336);
+}
+ #lab1N2 {border: 10px;
+    background-color: rgb(25, 25, 27);
+    border-style:groove;
+    border-color:rgba(189, 189, 189, 0.336);
+  }
+ #lab3 {border: 10px;
+    background-color: rgb(25, 25, 27);
+    border-style:groove;
+    border-color:rgba(189, 189, 189, 0.336);
+}
+ #resources {border: 10px;
+    background-color: rgb(25, 25, 27);
+    border-style:groove;
+    border-color:rgba(189, 189, 189, 0.336);
+}
+
+  ol {border: 10px;
+ background-color: rgb(255, 255, 255);
+ border-style:groove;
+
+ border-color:rgba(189, 189, 189, 0.336);}
+
+ ul {border: 10px;
+    background-color: rgb(255, 255, 255);
+    border-style:groove;
+    border-color:rgba(189, 189, 189, 0.336);
+}
+
+ i {color:white;
+}
+
